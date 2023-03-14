@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "arduino-libary")(type "KiCad")(uri "${KIPRJMOD}/Libraries/arduino-kicad-library/symbols/arduino-library.kicad_sym")(options "")(descr ""))
   (lib (name "Parts")(type "KiCad")(uri "${KIPRJMOD}/Parts.kicad_sym")(options "")(descr ""))
+  (lib (name "Mosfets")(type "Legacy")(uri "${KIPRJMOD}/Mosfets.lib")(options "")(descr ""))
 )
