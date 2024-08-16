@@ -2,6 +2,8 @@
 
 Arduino Uno R3 shield for controlling the chassis functions of Kybernetes 2
 
+![Schematic](/Assets/Schematic.pdf)
+
 ## Functions
 
 * Battery Protection for Motion Battery
